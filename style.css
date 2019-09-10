@@ -1,0 +1,183 @@
+body {
+	margin: 0px;
+	font-family: Arial, Helvetica, sans-serif ;
+	 font-size: 14px;
+	
+
+}
+a {
+	color:#696969;
+	font-style: normal;
+	text-decoration: none;
+}
+
+a:hover {
+        text-decoration: underline;
+    }
+
+
+.boite1 {
+	display: flex;
+	justify-content: flex-end;
+	margin : 20px;
+	color: #000000;
+}
+
+.carré {
+	width: 20px;
+	height: 20px;
+	padding: 3px;
+	padding-right: 10px
+	padding-left: 5px;
+}
+
+.button1 {
+	display: flex;
+	background-color: #2b7de9;
+	color: #ffffff;
+	font-weight: bold;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+
+.logo { display: flex;
+	justify-content: center;
+}
+
+
+.imagelogo {  
+	display: flex;
+	justify-content: center;
+	margin-top:130px;
+	width: 300px;
+	height: auto;
+}
+
+.searchform {
+	display: flex;
+	justify-content: center;
+	border-radius: 40px;
+	margin-top: 20px
+}
+
+.searchbar {
+	width: 576px;
+	height: 48px;
+   border-radius: 40px;
+   border: 1px #e0dede solid;
+
+	}
+
+.button2  {
+	display: flex;
+	justify-content: center;
+	margin: 20px;	
+
+}
+
+.recherchegoogle {
+	display: flex;
+	margin-right: 5px;
+	 background-color: #f2f2f2; 
+  border:  none;
+  color: #696969;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+
+.jaidelachance {
+	display: flex;
+	margin-left:  5px;
+	background-color: #f2f2f2; 
+  border: none;
+  color: #696969;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+
+.footer {
+	position:absolute;
+   bottom:0;
+   width:100%;
+   background-color:#f2f2f2;
+ }
+
+.france {
+display: flex;
+align-items: flex-end;
+margin-top: 5px;
+}
+
+.france p {
+	margin-left: 20px;
+}
+
+.footer1 {
+	  display: flex;
+   justify-content: space-between;
+   padding-bottom: 10px;
+   font-size: 80%;
+
+}
+
+.footerleft {
+	display: flex;
+	align-items : flex-end;
+	margin-left: 20px;
+}
+
+.lien1 {
+	padding-right: 10px;
+}
+
+
+.lien2 {
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+.lien3{
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+.lien4{
+	padding-right: 10px;
+}
+
+.footerright {
+	display: flex;
+	justify-content: flex-end;
+	margin-right: 20px;
+}
+
+.lien5{
+	padding-right: 10px;
+}
+
+.lien6{
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+.lien7{
+	padding-right: 10px;
+}
+
+.lien8{
+	padding-right: 10px;
+}
+
+
+
